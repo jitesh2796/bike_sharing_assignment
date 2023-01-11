@@ -17,10 +17,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Built a linear regression model that can very well predict the demand of shared bike and explain over 80% variance in the target
+- The final model consists of top 15 features to describe the demand
+- Atemp, weathersit and a combination of year and season are some of the most important feaures in the model
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -32,15 +31,9 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@jitesh2796] - feel free to contact me!
 
 
 <!-- Optional -->
