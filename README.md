@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment
+> A Linear regression model to predict the demand of shared bikes on a given day and identify the factors driving it.
 
 
 ## Table of Contents
@@ -11,10 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- BoomBikes is aspiring to understand the demand of shared bikes among the people and the factors driving it to drive revenue
+- The dataset consists of daily demand of shared bikes for two years and different factors like season, weather condition, temperature etc.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
